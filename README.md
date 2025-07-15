@@ -33,8 +33,11 @@
 🔧 Try It Now - Current Demo
 Run the bias detection demo:
 git clone https://github.com/Omnipath2025/ai-bias-elimination
+
 cd ai-bias-elimination
+
 python demo.py
+
 What works today:
 
 ✅ Bias detection scoring (0-100 scale)
