@@ -41,8 +41,11 @@ python demo.py
 What works today:
 
 ✅ Bias detection scoring (0-100 scale)
+
 ✅ Traditional medicine test cases
+
 ✅ Before/after bias comparison
+
 ✅ Real-time bias indicator identification
 
 Sample output shows 45-point bias reduction in real-time
