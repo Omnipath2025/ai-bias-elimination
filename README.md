@@ -30,17 +30,11 @@
 - **Classification**: 509(a)(2) Public Support
 - **Deductibility**: IRC Section 170 qualified
 
-## 🔧 Try It Now - Current Demo
-
-## 🔧 Try It Now - Current Demo
-
-**Run the bias detection demo:**
-
-```bash
+🔧 Try It Now - Current Demo
+Run the bias detection demo:
 git clone https://github.com/Omnipath2025/ai-bias-elimination
 cd ai-bias-elimination
 python demo.py
-
 What works today:
 
 ✅ Bias detection scoring (0-100 scale)
@@ -48,15 +42,7 @@ What works today:
 ✅ Before/after bias comparison
 ✅ Real-time bias indicator identification
 
-Sample output:
-
-🔬 AI BIAS ELIMINATION DEMO
-Query: Is turmeric effective for inflammation?
-❌ BIASED AI: "Turmeric lacks scientific evidence..."
-   🚨 Bias Score: 45/100
-✅ BIAS-FREE: "Turmeric has traditional use + modern research..."
-   ✨ Bias Score: 0/100
-📊 IMPROVEMENT: 45 point bias reduction
+Sample output shows 45-point bias reduction in real-time
 
 
 **What we're building with your support:**
