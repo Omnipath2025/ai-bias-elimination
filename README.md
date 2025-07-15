@@ -32,11 +32,32 @@
 
 ## 🔧 Try It Now - Current Demo
 
-**What works today:**
-- ✅ Smart contract foundation (2 tests passing)
-- ✅ Basic bias detection framework
-- ✅ ZK circuit architecture designed
-- ✅ Community feedback collection system
+## 🔧 Try It Now - Current Demo
+
+**Run the bias detection demo:**
+
+```bash
+git clone https://github.com/Omnipath2025/ai-bias-elimination
+cd ai-bias-elimination
+python demo.py
+
+What works today:
+
+✅ Bias detection scoring (0-100 scale)
+✅ Traditional medicine test cases
+✅ Before/after bias comparison
+✅ Real-time bias indicator identification
+
+Sample output:
+
+🔬 AI BIAS ELIMINATION DEMO
+Query: Is turmeric effective for inflammation?
+❌ BIASED AI: "Turmeric lacks scientific evidence..."
+   🚨 Bias Score: 45/100
+✅ BIAS-FREE: "Turmeric has traditional use + modern research..."
+   ✨ Bias Score: 0/100
+📊 IMPROVEMENT: 45 point bias reduction
+
 
 **What we're building with your support:**
 - 🚧 Working bias detection engine
