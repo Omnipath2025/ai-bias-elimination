@@ -30,25 +30,23 @@
 - **Classification**: 509(a)(2) Public Support
 - **Deductibility**: IRC Section 170 qualified
 
-🔧 Try It Now - Current Demo
-Run the bias detection demo:
-git clone https://github.com/Omnipath2025/ai-bias-elimination
+## 🔧 Try Our Professional Demos
 
-cd ai-bias-elimination
+**Industry-Standard Bias Detection:**
 
-python demo.py
+🔬 **SHAP Analysis Demo**: https://github.com/Omnipath2025/biopath-shap-demo
+- Explainable AI bias detection using SHapley Additive exPlanations
+- Traditional medicine validation with statistical rigor
+- Professional-grade algorithms for real-world deployment
 
-What works today:
+⚗️ **ChemPath Demo**: https://github.com/Omnipath2025/chempath-demo  
+- Chemical compound analysis and traditional knowledge integration
+- Pharmaceutical pathway validation
+- Real-world therapeutic applications
 
-✅ Bias detection scoring (0-100 scale)
+💻 **Simple Demo**: Run `python demo.py` for basic bias detection example
 
-✅ Traditional medicine test cases
-
-✅ Before/after bias comparison
-
-✅ Real-time bias indicator identification
-
-Sample output shows 45-point bias reduction in real-time
+**This isn't theoretical - we have working professional-grade code**
 
 
 **What we're building with your support:**
